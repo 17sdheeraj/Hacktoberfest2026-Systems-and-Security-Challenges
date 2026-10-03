@@ -99,6 +99,6 @@ Q5: echo $PATH → shows the executable search path
 
 <div align="center">
 
-Cleared this? **[On to Level 3 - System Health Inspector →](../level-3/SysCom/)**
+Cleared this? **[On to Level 3 - System Health Inspector →](../../level-3/SysCom/)**
 
 </div>

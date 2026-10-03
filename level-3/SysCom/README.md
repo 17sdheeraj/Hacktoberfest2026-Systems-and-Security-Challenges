@@ -92,6 +92,6 @@ Feel free to go further - colorized sections, a summary line, whatever you like.
 
 <div align="center">
 
-Cleared this? **[On to Level 4 - The Systems Toolkit →](../level-4/SysCom/)**
+Cleared this? **[On to Level 4 - The Systems Toolkit →](../../level-4/SysCom/)**
 
 </div>

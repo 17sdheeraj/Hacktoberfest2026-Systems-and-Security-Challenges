@@ -33,10 +33,10 @@ You're given `capture.pcap`, a network traffic capture. Somewhere in it, a login
 
 ## 🖼️ Part 2 - Image Forensics
 
-You're given `evidence.jpg`. It looks like an ordinary photo - but its metadata knows more than it's letting on.
+You're given `evidence.jpg`. It looks like an ordinary photo - but it knows more than it's letting on.
 
 **Your task:**
-1. Run `exiftool evidence.jpg` (or any metadata reader of your choice).
+1. Look for clues in the evidence.jpg file.
 2. Extract the **GPS coordinates** embedded in the file.
 3. Note the **camera make/model and software** used to create or edit it.
 
@@ -93,6 +93,6 @@ Your `report.md` must include:
 
 <div align="center">
 
-Cleared this? **[On to Level 3 - Crack the Vault & Web Basics →](../level-3-vault/)**
+Cleared this? **[On to Level 3 - Crack the Vault & Web Basics →](../../level-3/Cybersecurity/)**
 
 </div>

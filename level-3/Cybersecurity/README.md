@@ -94,6 +94,6 @@ Your `report.md` must include:
 
 <div align="center">
 
-Cleared this? **[On to Level 4 - HTB Starting Point Arena →](../level-4-htb/)**
+Cleared this? **[On to Level 4 - HTB Starting Point Arena →](../level-4/Cybersecurity/)**
 
 </div>

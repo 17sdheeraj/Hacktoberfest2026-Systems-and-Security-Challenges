@@ -94,6 +94,6 @@ Your `README.md` should include:
 
 <div align="center">
 
-Once this is merged, pick your path: **[🖥️ SysCom →](../syscom/level-2-terminal/)** or **[🔐 Cybersecurity →](../cybersecurity/level-2-sleuth/)**
+Once this is merged, pick your path: **[🖥️ SysCom →](../level-2/SysCom/)** or **[🔐 Cybersecurity →](../level-2/Cybersecurity/)**
 
 </div>

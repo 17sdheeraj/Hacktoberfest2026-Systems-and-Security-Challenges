@@ -1,12 +1,12 @@
 
 **Topology:**
 
-![[Screenshot 2026-10-05 225225.png]]
+![[topology.png]]
 
 
 **Pings:**
 
-![[Screenshot 2026-10-05 225838.png]]
+![[pings.png]]
 
 
 **IP Addressing Table:**
